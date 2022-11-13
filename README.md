@@ -1,2 +1,2 @@
-# 自訂XY刻度
-教導如何利用Matplotlib自訂XY刻度。
+# 自訂XY軸範圍
+教學如何利用Matplotlib自訂XY軸範圍。
